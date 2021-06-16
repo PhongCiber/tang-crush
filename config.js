@@ -13,6 +13,5 @@ const CONFIG = {
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-  ,
     messLink: 'http://fb.com' https://www.facebook.com/m.phongdepzai/
 }

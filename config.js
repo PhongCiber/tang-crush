@@ -1,17 +1,16 @@
 const CONFIG = {
-    introTitle: 'Mày à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    introTitle: 'Chào c iu !',
+    introDesc: `ngồi trong toilet
+                gào thét tên em'      
+    btnIntro: 'click đi quý cô xinh xắn' 
+    title: 'E chào c lần đầu e đi tỏ tình nên là có gì sai sót mong c bỏ qua nhaaaa',
+    desc: '2 tuần rùi đó c ạ nhanh nhỉ ờm hôm nay là ngày 22/02/2022 là ngày người ta bảo là 
+    có nhiều năng lượng tích cực lắm lun ấy thì e có vấn đề này hỏi c 😊 ',
+    btnYes: 'Vẫn cứ là thích eee <33',
+    btnNo: 'Không, Em trai à :3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao c lại yêu e <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    mess: 'e biết mà 🥰. Yêu c nhiều nhiều 😘😘',
     messLink: 'http://fb.com' https://www.facebook.com/m.phongdepzai/
 }
